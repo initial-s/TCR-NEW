@@ -1,7 +1,7 @@
-Bot Potect Group Line ONE PIECE Version
-Siapkan 10 Akun Line 1 Akun Utama & 9 Akun Bot
+Bot Potect Group Line TCR-NEW UPDATE SCRIPT
+Sediakan 6 akun Line Kalian untuk Bot nya dan 1 akun admin
 
-Edit² Sedikit Token dan Mid Kalian
+Edit² Di bagian Mid admin dengan Mid Kalian
 
 Dibutuhkan Install :
 
