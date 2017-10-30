@@ -1,7 +1,6 @@
 Bot Potect Group Line TCR-NEW UPDATE SCRIPT
-Sediakan 6 akun Line Kalian untuk Bot nya dan 1 akun admin
-
-Edit² Di bagian Mid admin dengan Mid Kalian
+Sediakan 4 akun Line Kalian untuk Bot nya dan 1 akun admin
+Edit bagian mid admin dan owner,, ganti dengan mid kalian
 
 Dibutuhkan Install :
 
